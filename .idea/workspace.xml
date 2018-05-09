@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f76d795c-2602-40fa-a2ce-0091fe1d228c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/pandas/ReadCsv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas/stock_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas/stock_data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas/weather_data1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Machine-Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Machine-Learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data PreProcessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data PreProcessing.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SVR/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SVR/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regration/Multiple Linear Regression/.ipynb_checkpoints/Multiple Linear Regression-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regration/Multiple Linear Regression/.ipynb_checkpoints/Multiple Linear Regression-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regration/Multiple Linear Regression/50_Startups.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regration/Multiple Linear Regression/50_Startups.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regration/Multiple Linear Regression/Multiple Linear Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regration/Multiple Linear Regression/Multiple Linear Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regration/Multiple Linear Regression/MultipleLinearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regration/Multiple Linear Regression/MultipleLinearRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regration/Polynomial /Position_Salaries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regration/Polynomial /Position_Salaries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regration/Polynomial /polynomial_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regration/Polynomial /polynomial_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regration/Single Linear Regression/.ipynb_checkpoints/Simple Linear regressation-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regration/Single Linear Regression/.ipynb_checkpoints/Simple Linear regressation-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regration/Single Linear Regression/Salary_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regration/Single Linear Regression/Salary_Data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regration/Single Linear Regression/Simple Linear regressation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regration/Single Linear Regression/Simple Linear regressation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regration/Single Linear Regression/Simple Linear regressation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Linear_Regration/Single Linear Regression/Simple Linear regressation.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,34 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReadCsv.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ReadCsv.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pandas/ReadCsv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stock_data.csv" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pandas/stock_data.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-start-column="26" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="weather_data1.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pandas/weather_data1.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="weather_data.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pandas/weather_data.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="31" />
+            <state relative-caret-position="390">
+              <caret line="26" column="65" lean-forward="true" selection-start-line="26" selection-end-line="26" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -73,6 +50,8 @@
         <option value="$PROJECT_DIR$/pandas/weather_data.csv" />
         <option value="$PROJECT_DIR$/pandas/weather_data1.csv" />
         <option value="$PROJECT_DIR$/pandas/ReadCsv.py" />
+        <option value="$PROJECT_DIR$/Linear Regration/Polynomial /polynomial_regression.py" />
+        <option value="$PROJECT_DIR$/Linear_Regration/Polynomial /polynomial_regression.py" />
       </list>
     </option>
   </component>
@@ -97,7 +76,13 @@
             <path>
               <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="pandas" type="462c0819:PsiDirectoryNode" />
+              <item name="Linear_Regration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Linear_Regration" type="462c0819:PsiDirectoryNode" />
+              <item name="Polynomial " type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Machine-Learning" type="b2602c69:ProjectViewProjectNode" />
@@ -148,13 +133,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="819" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24947146" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" visible="true" weight="0.32904148" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32904148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32952926" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -167,12 +153,31 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="7" visible="true" weight="0.32904148" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32952926" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Linear Regration/Multiple Linear Regression/MultipleLinearRegression.py">
+    <entry file="file://$PROJECT_DIR$/Linear_Regration/Multiple Linear Regression/MultipleLinearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="31" selection-start-line="8" selection-end-line="11" selection-end-column="31" />
@@ -184,7 +189,7 @@
     </entry>
     <entry file="file://$USER_HOME$/anaconda3/envs/py35/lib/python3.6/site-packages/matplotlib/pyplot.py" />
     <entry file="file://$USER_HOME$/anaconda3/envs/py35/lib/python3.6/site-packages/sklearn/preprocessing/label.py" />
-    <entry file="file://$PROJECT_DIR$/Linear Regration/Multiple Linear Regression/MultipleLinearRegression.py">
+    <entry file="file://$PROJECT_DIR$/Linear_Regration/Multiple Linear Regression/MultipleLinearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
           <caret line="86" column="57" selection-start-line="86" selection-start-column="57" selection-end-line="86" selection-end-column="57" />
@@ -204,17 +209,27 @@
     <entry file="file://$PROJECT_DIR$/pandas/weather_data1.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pandas/ReadCsv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pandas/stock_data.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="32" selection-start-column="26" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Linear_Regration/Polynomial /polynomial_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="e#139#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pandas/ReadCsv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="65" lean-forward="true" selection-start-line="26" selection-end-line="26" selection-end-column="65" />
         </state>
       </provider>
     </entry>
